@@ -17,7 +17,6 @@ BTPanel-DIY-Template
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/laulzgoay/BTPanel-DIY-Template.svg)](https://github.com/laulzgoay/BTPanel-DIY-Template)
 
 > 下载稳定版请点击[这里](https://github.com/laulzgoay/BTPanel-DIY-Template/releases)，发现 bug 可发送邮件至邮箱：laulzgoay@outlook.com，或提交 [issues](https://github.com/laulzgoay/BTPanel-DIY-Template/issues)  
-> 下载速度慢的可以移步 Coding https://dev.tencent.com/u/wispx/p/lsky-pro-releases/git
 
 ![homepage.png](./show1.png)
 ![homepage.png](./show2.png)
