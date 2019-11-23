@@ -44,7 +44,3 @@ BTPanel-DIY-Template
 - Email: laulzgoay@outlook.com
 - Blog：[https://www.xjisme.com/](https://www.xjisme.com)
 
-
-开源许可
----
-[GPL 3.0](https://opensource.org/licenses/GPL-3.0)
