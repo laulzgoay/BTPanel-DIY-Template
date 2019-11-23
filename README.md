@@ -21,7 +21,9 @@ BTPanel-DIY-Template
 ![homepage.png](./show1.png)
 ![homepage.png](./show2.png)
 
-#未取得开发者授权，擅自更改版权二开，原应用：[http://www.moeyy.cn/moe-1097.html]http://www.moeyy.cn/moe-1097.html
+#未取得开发者授权，擅自更改版权二开，原应用：http://www.moeyy.cn/moe-1097.html
+
+对萌歪道歉！
 
 主要特性
 ---
