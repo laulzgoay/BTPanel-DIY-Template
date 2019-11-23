@@ -48,6 +48,3 @@ BTPanel-DIY-Template
 开源许可
 ---
 [GPL 3.0](https://opensource.org/licenses/GPL-3.0)
-
-Copyright (c) 2019 BTPanel-DIY-Template.
-
