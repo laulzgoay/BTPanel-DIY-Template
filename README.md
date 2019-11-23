@@ -4,7 +4,7 @@ BTPanel-DIY-Template
 
 <p align="center">
     <a href="./show2.png" target="_blank">
-        <img width="300" src="./show2.png">
+        <img width="2000" src="./show2.png">
     </a>
 </p>
 
